@@ -12,6 +12,8 @@ public class MainTestGit2 {
     public static void main(String[] args) {
         new MainTestGit2();
 
+        // sakurai
+        // このスペース不要です。
 
 
     }
