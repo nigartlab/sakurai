@@ -13,6 +13,7 @@ public class MainTestGit2 {
         new MainTestGit2();
 
 
+        // ここに競合するものを書いてみる
 
     }
 
